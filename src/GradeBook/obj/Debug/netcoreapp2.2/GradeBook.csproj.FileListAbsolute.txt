@@ -1,0 +1,11 @@
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.deps.json
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.json
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.dev.json
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.dll
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.pdb
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csprojAssemblyReference.cache
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.CoreCompileInputs.cache
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfoInputs.cache
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
+/Users/andreagomezmartinez/Documents/PluralSight/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb
